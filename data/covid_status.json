@@ -1,0 +1,502 @@
+{
+  "Nitin Chakraborty": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Shruti Das": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Anjali Malhotra": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 14.285714285714285
+  },
+  "Ganesh Mukherjee": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Yashaswini Sinha": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Vikram Trivedi": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Neha Patel": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Naveen Pillai": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 25.0
+  },
+  "Prasad Chopra": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Deepika Misra": {
+    "status": "positive",
+    "date": "2026-01-24T11:28:27.168869",
+    "risk_score": 100
+  },
+  "Keerthi Roy": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Shreya Agarwal": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Shalini Arora": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Rohan Reddy": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 20.0
+  },
+  "Srinivas Nair": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 33.33333333333333
+  },
+  "Gowri Jain": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 16.666666666666664
+  },
+  "Neha Bhatnagar": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 16.666666666666664
+  },
+  "Ritika Murthy": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Keerthi Chakraborty": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Seema Bhatnagar": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Priya Chaurasia": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Rajesh Murthy": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 16.666666666666664
+  },
+  "Rajkumar Misra": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Ravi Sinha": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Malini Das": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Seema Iyer": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Srinivas Ghosh": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Priya Verma": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Anjali Krishnan": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 16.666666666666664
+  },
+  "Arjun Verma": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 20.0
+  },
+  "Divya Pandey": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Harini Gupta": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Ravi Chopra": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 33.33333333333333
+  },
+  "Neha Chaurasia": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Neha Majumdar": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Aditya Dutta": {
+    "status": "positive",
+    "date": "2026-02-24T12:07:46.551618",
+    "risk_score": 100
+  },
+  "Prabhakar Kadam": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Kavya Shetty": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Padma Chakraborty": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Malini Mukherjee": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Shruti Roy": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 20.0
+  },
+  "Anjum Bhatnagar": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Srinivas Reddy": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 16.666666666666664
+  },
+  "Padma Desai": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Sneha Murthy": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Madhavi Saxena": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Venkat Chakraborty": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 20.0
+  },
+  "Harini Chakraborty": {
+    "status": "positive",
+    "date": "2026-02-23T14:04:34.464274",
+    "risk_score": 100
+  },
+  "Keerthi Kadam": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Priya Sharma": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Kavya Sethi": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Arun Das": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 25.0
+  },
+  "Pragya Singh": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Seema Srivastava": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Isha Shetty": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Lakshmi Murthy": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 16.666666666666664
+  },
+  "Mohan Arora": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 33.33333333333333
+  },
+  "Bhavana Reddy": {
+    "status": "positive",
+    "date": "2026-02-23T13:59:22.038254",
+    "risk_score": 100
+  },
+  "Karthik Desai": {
+    "status": "positive",
+    "date": "2026-02-23T14:07:03.979712",
+    "risk_score": 100
+  },
+  "Seema Das": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Thananya Ghosh": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Nitin Reddy": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Kavya Sharma": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Suresh Trivedi": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 25.0
+  },
+  "Deepika Reddy": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 33.33333333333333
+  },
+  "Anusha Ghosh": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Arun Malhotra": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 20.0
+  },
+  "Sameer Srivastava": {
+    "status": "high_risk",
+    "date": null,
+    "risk_score": 50.0
+  },
+  "Priya Chakraborty": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 16.666666666666664
+  },
+  "Meera Sharma": {
+    "status": "positive",
+    "date": "2026-01-24T11:28:34.677634",
+    "risk_score": 100
+  },
+  "Isha Ghosh": {
+    "status": "positive",
+    "date": "2026-01-24T11:27:45.341111",
+    "risk_score": 100
+  },
+  "Siddarth Sharma": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Neha Jain": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 33.33333333333333
+  },
+  "Divyasree Rawat": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Sanjay Gowda": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Pooja Reddy": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 33.33333333333333
+  },
+  "Prasad Reddy": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 33.33333333333333
+  },
+  "Neha Reddy": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Anusha Kadam": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Malini Majumdar": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Ishita Kulkarni": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Shalini Mukherjee": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Srinivas Saxena": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Isha Bhat": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Ananya Ghosh": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Divya Mukherjee": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Karthik Jain": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 25.0
+  },
+  "Vikram Bhatnagar": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Prasad Chaurasia": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Srinivas Kulkarni": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Siddarth Pillai": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 20.0
+  },
+  "Pooja Murthy": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Yashaswini Chakraborty": {
+    "status": "high_risk",
+    "date": null,
+    "risk_score": 50.0
+  },
+  "Anjum Gupta": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Siddarth Patel": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Kumar Agarwal": {
+    "status": "positive",
+    "date": "2026-01-24T11:27:29.309560",
+    "risk_score": 100
+  },
+  "Meera Yadav": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Nisha Joshi": {
+    "status": "safe",
+    "date": null,
+    "risk_score": 0
+  },
+  "Priya Iyer": {
+    "status": "low_risk",
+    "date": null,
+    "risk_score": 25.0
+  },
+  "Rajesh Kumar": {
+    "status": "positive",
+    "date": "2026-01-24T10:19:36.782639",
+    "risk_score": 100
+  }
+}
